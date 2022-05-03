@@ -1,10 +1,10 @@
-# Repositório para Versionar alguns exercícios realizados em cursos da plataforma Dio :desktop_computer:
+# Repositório para publicar alguns exercícios de treino :desktop_computer:
 
 
 
 - ### Voltado para codar em Java :coffee: :man_teacher:
 
-- ##### Objetivo de Explorar conceitos estudados em aula, executando os mesmos em prática.
+- ##### Objetivo de Explorar conceitos adquiridos aplicados na prática.
 
 - ##### Publicarei Exercícios do básico ao avançado, afim de mostrar minha evolução durante o decorrer dos cursos estudados.
 
